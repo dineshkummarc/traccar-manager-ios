@@ -12,7 +12,6 @@ Traccar Manager is a mobile application to manage GPS tracking devices. It requi
 - William Pearse ([w.pearse@gmail.com](mailto:w.pearse@gmail.com))
 
 ## License
-
     Apache License, Version 2.0
 
     Licensed under the Apache License, Version 2.0 (the "License");
